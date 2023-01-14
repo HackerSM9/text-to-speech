@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful!&style=for-the-badge&color=410694"><br>
   <img src="https://img.shields.io/badge/Version-2.0.9-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/HackerSM9/text-to-speech?style=for-the-badge&color=teal">
   <img src="https://img.shields.io/github/stars/HackerSM9/text-to-speech?style=for-the-badge">
   <img src="https://img.shields.io/github/forks/HackerSM9/text-to-speech?style=for-the-badge">
 </p>
